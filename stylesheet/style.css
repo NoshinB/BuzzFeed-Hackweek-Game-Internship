@@ -1,0 +1,26 @@
+/*Index/Home page*/
+header {
+    font-family: cursive;
+    text-align: center;
+    padding: 3%;
+    font-size: 4em;
+}
+
+span {
+    margin: -0.15em;
+}
+
+h1 {
+    font-family: cursive;
+    padding: 3%;   
+    text-align: center;
+    color: red
+}
+
+button {
+    font-family: cursive;
+    font-size: 20px;
+    color: red;
+    margin-right: 5%;
+    margin-left: 7%;
+}
